@@ -16,6 +16,7 @@ This project demonstrates the complete data analytics workflow using Excel, SQL,
 
 ## 📂 Project Structure
 
+```text
 Sales Performance Dashboard/
 │
 ├── Dashboard/
@@ -39,6 +40,7 @@ Sales Performance Dashboard/
     ├── profit_by_region.png
     ├── sales_by_category.png
     └── sales_by_segment.png
+```
 
 ---
 
