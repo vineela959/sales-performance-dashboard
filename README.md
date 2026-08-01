@@ -17,28 +17,28 @@ This project demonstrates the complete data analytics workflow using Excel, SQL,
 ## 📂 Project Structure
 
 Sales Performance Dashboard/
-
+│
 ├── Dashboard/
-│ ├── Sales_Performance_Dashboard.pbix
-│ └── README.md
-
+│   ├── Sales_Performance_Dashboard.pbix
+│   └── README.md
+│
 ├── Dataset/
-│ ├── sales_data_raw.xlsx
-│ ├── sales_data_cleaned.xlsx
-│ └── sales_data_cleaned.csv
-
+│   ├── sales_data_raw.xlsx
+│   ├── sales_data_cleaned.xlsx
+│   └── sales_data_cleaned.csv
+│
 ├── SQL/
-│ ├── database_setup.sql
-│ ├── basic_queries.sql
-│ ├── business_analysis.sql
-│ └── advanced_queries.sql
-
+│   ├── database_setup.sql
+│   ├── basic_queries.sql
+│   ├── business_analysis.sql
+│   └── advanced_queries.sql
+│
 └── Screenshots/
-├── dashboard_overview.png
-├── sales_by_region.png
-├── profit_by_region.png
-├── sales_by_category.png
-└── sales_by_segment.png
+    ├── dashboard_overview.png
+    ├── sales_by_region.png
+    ├── profit_by_region.png
+    ├── sales_by_category.png
+    └── sales_by_segment.png
 
 ---
 
