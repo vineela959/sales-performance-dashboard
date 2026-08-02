@@ -1,22 +1,23 @@
 # 📊 Sales Performance Dashboard
 
-## 📌 Project Overview
-
-This project demonstrates the complete data analytics workflow using Excel, SQL, and Power BI. The goal is to analyze sales data, identify business insights, and present the results through an interactive dashboard.
+An interactive Sales Performance Dashboard built using **Power BI, Excel, and SQL** to analyze sales performance across regions, product categories, and customer segments. This project demonstrates data cleaning, SQL querying, and business intelligence dashboard creation.
 
 ---
 
-## 🛠️ Tools Used
+## 🚀 Project Overview
 
-- Microsoft Excel
-- MySQL
-- Power BI
+This project follows a complete data analytics workflow:
+
+- Data Cleaning using Excel
+- Data Analysis using SQL
+- Interactive Dashboard Development in Power BI
+- Business Insights through Data Visualization
 
 ---
 
 ## 📂 Project Structure
 
-```text
+```
 Sales Performance Dashboard/
 │
 ├── Dashboard/
@@ -38,84 +39,49 @@ Sales Performance Dashboard/
     ├── dashboard_overview.png
     ├── sales_by_region.png
     ├── profit_by_region.png
-    ├── sales_by_category.png
-    └── sales_by_segment.png
+    └── sales_by_category.png
 ```
 
 ---
 
-## 📈 Dashboard KPIs
+## 📈 Dashboard Overview
 
-- Total Sales
-- Total Profit
-- Sales by Region
-- Profit by Region
-- Sales by Category
-- Sales by Segment
+![Dashboard Overview](../Screenshots/dashboard_overview.png)
 
 ---
 
-## 🧹 Data Cleaning
+## 📌 Dashboard Features
 
-The dataset was cleaned using Microsoft Excel by:
-
-- Removing duplicate records
-- Handling missing values
-- Correcting data formats
-- Standardizing column names
-- Preparing data for SQL and Power BI analysis
-
----
-
-## 🗄️ SQL Analysis
-
-SQL queries were written to perform business analysis, including:
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Regional Sales Analysis
-- Regional Profit Analysis
-- Top Products by Sales
-- Top States by Profit
-- Sales by Segment
-- Average Order Value
+- KPI Cards for Total Sales and Total Profit
+- Sales Analysis by Region
+- Profit Analysis by Region
+- Sales Analysis by Category
+- Sales Distribution by Customer Segment
+- Clean and interactive dashboard layout
 
 ---
 
-## 📊 Power BI Dashboard
+## 🛠 Tools Used
 
-The interactive dashboard includes:
-
-- KPI Cards
-- Column Charts
-- Pie Chart
-- Business Performance Visualizations
-
----
-
-## 📷 Dashboard Preview
-
-Dashboard screenshots are available in the **Screenshots** folder.
-
----
-
-## 🎯 Key Insights
-
-- West Region generated the highest sales.
-- West Region also achieved the highest profit.
-- Technology was the best-performing product category.
-- Consumer Segment contributed the largest share of total sales.
-
----
-
-## 🚀 Skills Demonstrated
-
-- Data Cleaning
-- Excel
+- Microsoft Excel
 - SQL
-- Data Analysis
 - Power BI
-- Dashboard Design
-- Business Intelligence
-- Data Visualization
+
+---
+
+## 📊 Key Insights
+
+- West Region generated the highest sales and profit.
+- Technology category recorded the highest sales.
+- Consumer segment contributed the largest share of sales.
+- South Region showed comparatively lower sales performance.
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates the complete data analytics workflow—from data cleaning and SQL-based analysis to interactive dashboard development in Power BI. It highlights the ability to transform raw sales data into meaningful business insights through effective visualization and reporting.
+
+**Vineela**
+
+GitHub: https://github.com/vineela959
