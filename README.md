@@ -47,7 +47,7 @@ Sales Performance Dashboard/
 
 ## 📈 Dashboard Overview
 
-![Dashboard Overview](../Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ---
 
