@@ -22,7 +22,6 @@ Sales Performance Dashboard/
 │
 ├── Dashboard/
 │   ├── Sales_Performance_Dashboard.pbix
-│   └── README.md
 │
 ├── Dataset/
 │   ├── sales_data_raw.xlsx
@@ -40,13 +39,15 @@ Sales Performance Dashboard/
     ├── sales_by_region.png
     ├── profit_by_region.png
     └── sales_by_category.png
+└── README.md
+
 ```
 
 ---
 
 ## 📈 Dashboard Overview
 
-![Dashboard Overview](../Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ---
 
