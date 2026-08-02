@@ -47,7 +47,7 @@ Sales Performance Dashboard/
 
 ## 📈 Dashboard Overview
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](../Screenshots/dashboard_overview.png)
 
 ---
 
@@ -82,7 +82,3 @@ Sales Performance Dashboard/
 ## 🎯 Conclusion
 
 This project demonstrates the complete data analytics workflow—from data cleaning and SQL-based analysis to interactive dashboard development in Power BI. It highlights the ability to transform raw sales data into meaningful business insights through effective visualization and reporting.
-
-**Vineela**
-
-GitHub: https://github.com/vineela959
